@@ -1,0 +1,6 @@
+{
+  "name": "BRIND Digital Agency",
+  "description": "A premium digital experience agency landing page showcasing works, interactive pricing, and calendar booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
